@@ -1,0 +1,8 @@
+streamlit 
+simplejson 
+openai 
+argparse 
+loguru 
+pdf2docx 
+docx
+pyYaml
